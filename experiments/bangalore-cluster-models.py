@@ -136,12 +136,12 @@ aclabels = aclabels.tolist()
 print('Finished clustering using Agglomerative Clustering').fit(X)
 """
 
-newDf = pd.DataFrame()
-newDf['Kmeans'] = kmlabels
-newDf['EMKmeans'] = kmflabels
-newDf['EM2Kmeans'] = kmf2labels
-newDf['EM3Kmeans'] = kmf3labels
-newDf['ElM3Kmeans'] = ekmf3labels
+#newDf = pd.DataFrame()
+#newDf['Kmeans'] = kmlabels
+#newDf['EMKmeans'] = kmflabels
+#newDf['EM2Kmeans'] = kmf2labels
+#newDf['EM3Kmeans'] = kmf3labels
+#newDf['ElM3Kmeans'] = ekmf3labels
 #newDf['DKmeans'] = dkmlabels
 #newDf['DEMKmeans'] = dkmflabels
 #newDf['DEM2Kmeans'] = dkmf2labels
