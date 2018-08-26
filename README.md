@@ -15,4 +15,4 @@ Context: Road safety is of paramount importance for the Government and the entir
 4) Fu Jie, Chinese, living in Munich at the time of submission
 
 ## Instructions
-Run the `prediction_model.ipynb` file to perform the analysis and prediction
+Run the `prediction_model.ipynb` file to perform the analysis and prediction for accident zones of Bengaluru
